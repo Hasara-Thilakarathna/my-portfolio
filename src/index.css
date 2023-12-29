@@ -6,3 +6,34 @@
 body{
     font-family: 'Poppins',sans-serif;
 }
+
+@media all and (max-width: 1200px){
+
+        #profile-picture {
+            height: 300px;
+            width: 300px;
+        }
+
+    #title {
+        font-size: 36px;
+    }
+
+}
+
+@media all and (min-width: 1110px) and (max-width: 1200px){
+    #profile-picture {
+        height: 280px;
+        width: 280px;
+    }
+    #picture-wrapper {
+        padding-right: 15px;
+    }
+    #nav-bar {
+        gap: 36px;
+    }
+    #para-2 {
+        font-size: medium;
+    }
+
+
+}
