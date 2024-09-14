@@ -1,0 +1,10 @@
+#nav-bar li:hover{
+    color: crimson;
+    cursor: pointer;
+
+}
+#header-container {
+    position: fixed;
+    top: 0%;
+    z-index: 1;
+}

@@ -1,10 +1,19 @@
+@import "animate.css";
+@import "animate.css/animate.min.css";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400&family=Roboto:ital,wght@0,100;0,300;0,900;1,300;1,400;1,500&display=swap');
+@import "bootstrap-icons";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 body{
     font-family: 'Poppins',sans-serif;
+    background-color: rgb(15 23 42);
+}
+
+.icon:hover {
+    transform: scale(1.2);
+
 }
 
 @media all and (max-width: 1200px){
@@ -13,11 +22,9 @@ body{
             height: 300px;
             width: 300px;
         }
-
     #title {
         font-size: 36px;
     }
-
 }
 
 @media all and (min-width: 1110px) and (max-width: 1200px){
@@ -26,7 +33,7 @@ body{
         width: 280px;
     }
     #picture-wrapper {
-        padding-right: 15px;
+        /*padding-right: 15px;*/
     }
     #nav-bar {
         gap: 36px;

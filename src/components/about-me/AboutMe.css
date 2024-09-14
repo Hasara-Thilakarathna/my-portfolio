@@ -1,0 +1,10 @@
+#img-aboutme {
+    border-radius: 100px;
+    box-shadow: white;
+}
+
+
+.AboutMeWrapper {
+    width: 1200px;
+    padding-right: 50px;
+}

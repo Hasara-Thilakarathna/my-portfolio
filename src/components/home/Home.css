@@ -1,0 +1,19 @@
+
+
+.icon {
+    width: 48px;
+    height: 48px;
+}
+
+main {
+    color: white;
+    height: 100vh;
+
+}
+#right-container {
+    position: fixed;
+    left: 3%;
+    top: 40%;
+}
+
+

@@ -1,0 +1,8 @@
+.tech-icon {
+    height: 100px;
+    width: 100px;
+}
+
+.tech-icon:hover {
+    transform: scale(1.2);
+}
