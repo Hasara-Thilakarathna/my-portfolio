@@ -11,6 +11,7 @@
     "predeploy": "pnpm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://hasara-thilakarathna.github.io/my-portfolio/",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.2.0",
     "animate.css": "^4.1.1",
