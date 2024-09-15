@@ -47,7 +47,7 @@ export function Home() {
                          className="flex flex-col items-center gap-4">
                         <div id="picture-wrapper">
                             <img id="profile-picture" className="shadow-2xl shadow-cyan-200 h-96 w-96 rounded-full"
-                                 src="/src/assets/IMG_9312.jpg"/>
+                                 src="/my-portfolio/src/assets/IMG_9312.jpg"/>
                         </div>
                         <div className="flex gap-4">
                             <a target="_blank" href="https://www.linkedin.com/in/hasara-thilakarathna">
