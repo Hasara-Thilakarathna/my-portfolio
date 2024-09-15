@@ -38,7 +38,7 @@ export function Home() {
 
                         <button
                             className="bg-gradient-to-l border-blue-200 border p-2 rounded-2xl hover:bg-gradient-to-r from-cyan-100 to-transparent hover:text-black">
-                            <a target="_blank" href="/src/assets/HASARA_THILAKARATHNA.pdf">Download CV</a>
+                            <a target="_blank" href="/my-portfolio/assets/HASARA_THILAKARATHNA.pdf">Download CV</a>
                         </button>
 
                     </div>
@@ -47,16 +47,16 @@ export function Home() {
                          className="flex flex-col items-center gap-4">
                         <div id="picture-wrapper">
                             <img id="profile-picture" className="shadow-2xl shadow-cyan-200 h-96 w-96 rounded-full"
-                                 src="/my-portfolio/IMG_9312.jpg"/>
+                                 src="/my-portfolio/assets/IMG_9312.jpg"/>
                         </div>
                         <div className="flex gap-4">
                             <a target="_blank" href="https://www.linkedin.com/in/hasara-thilakarathna">
                                 <img alt="linkedin-icon" className=" icon "
-                                     src="/src/assets/img/tech-stack/linkedin.png"/>
+                                     src="/my-portfolio/assets/img/tech-stack/linkedin.png"/>
                             </a>
                             <a target="_blank" href="https://github.com/Hasara-Thilakarathna">
                                 <img alt="github-icon" className="icon "
-                                     src="/src/assets/img/tech-stack/github.png"/>
+                                     src="/my-portfolio/assets/img/tech-stack/github.png"/>
                             </a>
 
                         </div>
