@@ -38,7 +38,7 @@ export function Home() {
 
                         <button
                             className="bg-gradient-to-l border-blue-200 border p-2 rounded-2xl hover:bg-gradient-to-r from-cyan-100 to-transparent hover:text-black">
-                            <a target="_blank" href="/my-portfolio/assets/HASARA_THILAKARATHNA.pdf">Download CV</a>
+                            <a target="_blank" href="#home">Download CV</a>
                         </button>
 
                     </div>
